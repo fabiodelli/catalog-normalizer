@@ -1,0 +1,5 @@
+/target
+
+# output prodotti dall'esecuzione di esempio
+examples/catalogo.json
+examples/scarti.jsonl

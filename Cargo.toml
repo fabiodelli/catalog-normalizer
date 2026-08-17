@@ -1,0 +1,17 @@
+[package]
+name = "catalog-normalizer"
+version = "0.1.0"
+edition = "2021"
+description = "Normalizza righe prodotto disordinate in un catalogo strutturato: le regole risolvono, il modello solo il residuo"
+license = "MIT"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+csv = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+ureq = { version = "2", features = ["json"] }
+
+[profile.release]
+strip = true

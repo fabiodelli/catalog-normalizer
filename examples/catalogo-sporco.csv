@@ -1,0 +1,11 @@
+sku,name,brand,color,size,price,ean
+SKU-001,Piano in marmo Carrara,ACME S.r.l.,nero opaco,120x60x2 cm,"1.234,56 €",4006381333931
+SKU-002,Mensola in rovere,acme srl,Brown,1200 mm,"89,90 €",400638133393
+SKU-003,Lampada da tavolo,3m italia srl,matt black,47in,$129.99,96385074
+SKU-004,Sgabello industriale,Acme  Group,antracite,"2,5 m",1234.56 EUR,4006381333930
+SKU-005,Tappeto persiano,,turchese,taglia L,su richiesta,
+SKU-006,Vaso in ceramica,IKEA,nero / bianco,120x60,"1,234 €",ABC123
+SKU-007,Specchio da parete,van der berg,SCHWARZ,10",49,4006381333931
+SKU-008,Cassettiera,bosch,bordeaux,80 x 45 x 120 cm,"2.999,00 €",400638133393
+SKU-009,Poltrona,Group Lotus,testa di moro,,"-10 €",
+SKU-010,Tavolino,hp,,1x2x3x4 cm,prezzo da concordare,12345678901234
